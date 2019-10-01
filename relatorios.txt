@@ -1,0 +1,17 @@
+﻿# Pasta relatórios
+
+1. Arquivo "Avaliacao-20xx-x__perfil--infraestrutura.docx" apresenta relatório sobre perfil do aluno e avaliação da infraestrutura.
+
+2. Arquivo "avaliacao-geral-20xx-x---com-comentarios" apresenta relatório com a avaliação da coordenação baseado nas avaliações individuais dos professores sem distinção de professor ou disciplina
+
+3. Arquivo "avaliacao-geral-20xx-x---sem-comentarios" identifico ao item [2], mas os comentários dos alunos foram removidos.
+
+4. Arquivo "Avaliacao-20xx-x__RESUMO_RESPOSTAS.docx" apresenta relatório com quantidade de respostas por professor.
+
+5. Arquivo "Avaliacao-20xx-x__RESUMO_AVALIACOES.docx" apresenta relatório com 'média' das resposta para as categorias de perguntas Disciplina, Professor e Autoavaliação, sem distinção de professor ou disciplina.
+
+6. Arquivo "Avalicacao-professor-para-progressao__20xx-x.docx" apresenta relatório para ser utilizado na avaliação de progressão dos professores. 
+
+7.  Pasta "professor-disciplina-20xx-x" contém 21 relatórios que apresentam a avaliação de cada disciplina/professor. 
+
+Para facilitar, todas as avaliações de disciplinas ministradas por um mesmo professor foram agrupadas em um único arquivo.

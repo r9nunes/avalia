@@ -1,0 +1,5 @@
+﻿scripts funcionando - VERSAO 201802a
+[a1] perfil.R - gera relatório sobre a infra-estrutura do curso e sobre o perfil do aluo
+[b2] comentarios por disciplinas - script DESATUALIZADO!
+[c3] professores__avaliacao-cinfo.R - script que gera relatório com avaliações dos professores e das disciplinas
+[d4] professores__avalicacao-progressao.R - gera relatório sobre professores no formato da avaliação da progressão
